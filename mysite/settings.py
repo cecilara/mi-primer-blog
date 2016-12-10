@@ -25,7 +25,7 @@ SECRET_KEY = '10cq-7ajl*6$jheeuf!evsk!01m5*lhgj@3q)afswr7%3=w=#*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['clarita.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
